@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/07/My-hexo-server-note/</loc>
+    
+    <lastmod>2016-12-07T21:05:30.177Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/search/index.html</loc>
+    
+    <lastmod>2016-12-07T19:01:58.265Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/06/My-vimrc/</loc>
+    
+    <lastmod>2016-12-07T04:48:36.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/06/hello-world/</loc>
+    
+    <lastmod>2016-12-07T04:27:59.630Z</lastmod>
+    
+  </url>
+  
+</urlset>
